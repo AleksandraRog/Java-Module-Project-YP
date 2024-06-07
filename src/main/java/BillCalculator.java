@@ -8,7 +8,6 @@ public class BillCalculator {
 
     public void start() {
 
-
         System.out.println("Добро пожаловать в калькулятор счетов!");
         System.out.println("Разделите свой счет с друзьями :");
         System.out.println("Для этого сначала введите количество друзей.");

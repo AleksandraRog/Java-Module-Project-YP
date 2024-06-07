@@ -1,4 +1,5 @@
 public class Goods {
+
     String nameGoods;
     double priceGoods;
     int numberGoogs;
